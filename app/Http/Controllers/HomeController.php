@@ -29,11 +29,10 @@ class HomeController extends Controller
     public function index()
     {
         if (Auth::user()->is_admin != Null){
-            $count_customers = User::where('is_admin', '=', Null)->count();
             $count_admins = User::where('is_admin', '!=', Null)->where('is_admin', '!=', 1)->count();
             $count_products = Product::all()->count();
 
-            return view('admin.home')->with(compact('count_customers', 'count_products', 'count_admins'));
+            return view('admin.home')->with(compact('count_products', 'count_admins'));
         }
 
         return redirect('/');

@@ -12,7 +12,7 @@
                 </div>
                 <div class=header-title>
                     <h1>Dashboard</h1>
-                    <small>Bookyourvacay Site Admin</small>
+                    <small>Site Admin</small>
                     <ol class=breadcrumb>
                         <li><a href={{url('/home')}}><i class=pe-7s-home></i> Home</a></li>
                         <li class=active>Dashboard</li>
@@ -20,28 +20,22 @@
                 </div>
             </div>
             <div class=row>
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                     <div class="statistic-box statistic-filled-3">
                         <h2><span class=count-number>{{$count_admins}}</h2>
-                        <div class=small>Administrators </div>
+                        <div class=small>Users </div>
                         <i class="pe-7s-users statistic_icon"></i>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-                    <div class="statistic-box statistic-filled-3">
-                        <h2><span class=count-number>{{$count_customers}}</h2>
-                        <div class=small>Customers</div>
-                        <i class="pe-7s-user statistic_icon"></i>
+                <a href="{{url('/admin/customers')}}">
+                    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                        <div class="statistic-box statistic-filled-3">
+                            <h2><span class=count-number>{{$count_products}}</h2>
+                            <div class=small>Emails Sent</div>
+                            <i class="pe-7s-user statistic_icon"></i>
+                        </div>
                     </div>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-3">
-                    <div class="statistic-box statistic-filled-3">
-                        <h2><span class=count-number>{{$count_products}}</h2>
-                        <div class=small>All Properties, Flights &amp; Rentals </div>
-                        <i class="pe-7s-home statistic_icon"></i>
-                    </div>
-                </div>
-
+                </a>
             </div>
         </div>
     </div>
