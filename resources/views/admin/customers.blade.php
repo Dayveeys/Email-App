@@ -45,12 +45,12 @@
                                 <label class="control-label">Subject</label>
                                 <div class="input-group">
                                     <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-                                    <input id="subject" type="text" class="form-control {{ $errors->has('subject') ? ' has-error' : '' }}" name="subject" value="{{ old('subject') }}" required autocomplete="subject" autofocus placeholder="Enter Email Subject Here">
+                                    <input id="subject" type="text" class="form-control {{ $errors->has('subject') ? ' has-error' : '' }}" name="subject" @if ($errors->has('subject'))value="{{ old('subject') }}"@else value="Trade with confidence (up to 92% accuracy)" @endif required autocomplete="subject" autofocus placeholder="Enter Email Subject Here">
                                 </div>
                                 @if ($errors->has('subject'))
                                     <span class="label label-danger-outline m-r-15" role="alert">
-                                    <strong>{{ $errors->first('subject') }}</strong>
-                                </span>
+                                        <strong>{{ $errors->first('subject') }}</strong>
+                                    </span>
                                 @endif
                             </div>
                             <div align="center">
@@ -61,40 +61,42 @@
                 </div>
             </div>
 
-            @if(Auth::User()->is_admin == 1)
-                <td align="center">
-                    <div class=row>
-                        <div class="panel panel-bd">
-                            <div class="panel-body">
-                                <div class="table-responsive">
-                                    <table id="dataTableExample2" class="table table-bordered table-striped table-hover">
-                                        <br>
-                                        <thead>
-                                        <tr>
-                                            <th style="background-color:#1b7943; color:white;">S/N</th>
-                                            <th>Email</th>
+            <td align="center">
+                <div class=row>
+                    <div class="panel panel-bd">
+                        <div class="panel-body">
+                            <div class="table-responsive">
+                                <table id="dataTableExample2" class="table table-bordered table-striped table-hover">
+                                    <br>
+                                    <thead>
+                                    <tr>
+                                        <th style="background-color:#1b7943; color:white;">S/N</th>
+                                        <th>Email</th>
+                                        @if(Auth::User()->is_admin == 1)
                                             <th>Sent By</th>
-                                            <th>Time</th>
-                                        </tr>
-                                        </thead>
-                                        <tbody>
+                                        @endif
+                                        <th>Time</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
 
-                                        @foreach($products as $product)
-                                            <tr class="tr">
-                                                <td style="background-color:#1b7943; color:white;"></td>
-                                                <td><b class="d-sm-block d-xs-block d-md-none d-lg-none">Email: </b>{{$product->email}}</td>
+                                    @foreach($products as $product)
+                                        <tr class="tr">
+                                            <td style="background-color:#1b7943; color:white;"></td>
+                                            <td><b class="d-sm-block d-xs-block d-md-none d-lg-none">Email: </b>{{$product->email}}</td>
+                                            @if(Auth::User()->is_admin == 1)
                                                 <td><b class="d-sm-block d-xs-block d-md-none d-lg-none">Sent By: </b>{{$product->user->first_name}} {{$product->user->last_name}}</td>
-                                                <td><b class="d-sm-block d-xs-block d-md-none d-lg-none">Time: </b>{{$product->created_at}}</td>
-                                            </tr>
-                                        @endforeach
-                                        </tbody>
-                                    </table><br><br>
-                                </div>
+                                            @endif
+                                            <td><b class="d-sm-block d-xs-block d-md-none d-lg-none">Time: </b>{{$product->created_at}}</td>
+                                        </tr>
+                                    @endforeach
+                                    </tbody>
+                                </table><br><br>
                             </div>
                         </div>
                     </div>
-                </td>
-            @endif
+                </div>
+            </td>
         </div>
     </div>
 @endsection

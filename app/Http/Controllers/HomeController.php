@@ -28,9 +28,14 @@ class HomeController extends Controller
      */
     public function index()
     {
-        if (Auth::user()->is_admin != Null){
+        if (Auth::user()->is_admin == 1){
             $count_admins = User::where('is_admin', '!=', Null)->where('is_admin', '!=', 1)->count();
             $count_products = Product::all()->count();
+
+            return view('admin.home')->with(compact('count_products', 'count_admins'));
+        }else{
+            $count_admins = User::where('is_admin', '!=', 1)->count();
+            $count_products = Product::where('user_id', '=', Auth::user()->id)->count();
 
             return view('admin.home')->with(compact('count_products', 'count_admins'));
         }

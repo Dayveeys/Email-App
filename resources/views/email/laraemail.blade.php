@@ -136,13 +136,11 @@
             }
         }
     </style>
-    <!--[if true]>
     <style>
         .forceBgColor {
             background-color: white !important;
         }
     </style>
-    <![endif]-->
 </head>
 <body
         class="body forceBgColor os-host os-theme-dark os-host-overflow os-host-overflow-y os-host-resize-disabled os-host-scrollbar-horizontal-hidden os-host-transition"
@@ -196,30 +194,10 @@
                                                     <tbody>
                                                     <tr>
                                                         <td align="center">
-                                                            <a href="#" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://rlindasignals.com">
+                                                            <a href="https://www.tradingview.com" target="_blank" data-saferedirecturl="https://www.tradingview.com">
                                                                 <img src="https://ci3.googleusercontent.com/meips/ADKq_NYlb-Yd-_Nwj1kPRDe4wBEcxnIG-EqfEdz6d46Z3Pxu0sGq-IUWpNHyM85cG6Tg3VbszjROxJronZIRHBNUp0w9sdrpspdeoOYU=s0-d-e1-ft#https://s3.tradingview.com/mail/suite42/md_29506.png" style="text-align:center;vertical-align:top;height:auto;width:192px" border="0" width="192" alt="TradingView" class="CToWUd" data-bit="iit">
                                                             </a>
                                                         </td>
-{{--                                                        <td class="pad" style="text-align: center; width: 100%;">--}}
-{{--                                                            <h1--}}
-{{--                                                                    style="--}}
-{{--                                                                                            margin: 0;--}}
-{{--                                                                                            color: #acacac;--}}
-{{--                                                                                            direction: ltr;--}}
-{{--                                                                                            font-family: 'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;--}}
-{{--                                                                                            font-size: 14px;--}}
-{{--                                                                                            font-weight: 700;--}}
-{{--                                                                                            letter-spacing: 10px;--}}
-{{--                                                                                            line-height: 120%;--}}
-{{--                                                                                            text-align: center;--}}
-{{--                                                                                            margin-top: 0;--}}
-{{--                                                                                            margin-bottom: 0;--}}
-{{--                                                                                            mso-line-height-alt: 16.8px;--}}
-{{--                                                                                        "--}}
-{{--                                                            >--}}
-{{--                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">A PODCAST BY</span>--}}
-{{--                                                            </h1>--}}
-{{--                                                        </td>--}}
                                                     </tr>
                                                     </tbody>
                                                 </table>
@@ -244,10 +222,10 @@
                                                                                         "
                                                             >
                                                                 <span class="tinyMce-placeholder" style="word-break: break-word;"><div valign="middle" style="vertical-align:middle;text-align:right;display:inline-block">
-                        <img style="width:48px;height:48px;border-radius:8px" src="https://ci3.googleusercontent.com/meips/ADKq_NYgy4wW-XqmNkXFjmkPQuJ73k6s8uEGNHLam3QJtdKqzibdxnDXJVcYQlj_ygK_ilHE2L5WPp3mZpJRW_iT89JqoiFqGmUwPqUKdahFSaE=s0-d-e1-ft#https://s3.tradingview.com/userpics/37284142-BNCx_mid.png" class="CToWUd" data-bit="iit">
+                                                                        <a href="https://www.google.com/search?q=michael+saylor&sourceid=chrome&ie=UTF-8"> <img style="object-fit:cover;width:48px;height:48px;border-radius:8px" src="https://www.michael.com/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fbltdef7a3f3c28ddd84%2Fblte9fbed19f0b029e8%2F65dcba7206a66f7d551f49aa%2Fmjs-headshot_4-v2.jpg&w=3840&q=100" class="CToWUd" data-bit="iit"></a>
                 </div>
                 <div valign="middle" style="display:inline-block">
-                    &nbsp;&nbsp;RLinda </div></span>
+                    &nbsp;&nbsp;Michael Saylor </div></span>
                                                             </h1>
                                                         </td>
                                                     </tr>
@@ -292,7 +270,7 @@
                                                                                             mso-line-height-alt: 33.6px;
                                                                                         "
                                                             >
-                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">New publication from RLinda who you follow<br /></span>
+                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">New publication from Michael Saylor who you follow<br /></span>
                                                             </h1>
                                                         </td>
                                                     </tr>
@@ -311,7 +289,7 @@
                                                                                 <td align="left">
                                                                                     <div>
                                                                                         <p>Hello,</p>
-                                                                                        <p>I would like to introduce you to RLindaElite Signals – Your Gateway to Trading Excellence.</p>
+                                                                                        <p>I would like to introduce you to M-Saylor Elite Signals – Your Gateway to Trading Excellence.</p>
                                                                                         <p>Transform your trading journey with our trading signal services. We combine market analysis with trading expertise to deliver top-notch signals and insights.</p>
                                                                                         <p><strong>Our Mission:</strong> To empower traders with premium tools and knowledge, turning market complexities into profitable opportunities. Whether you're a pro or a beginner, we guide you towards success in forex and crypto markets.</p>
                                                                                         <p><strong>What Sets Us Apart:</strong></p>
@@ -320,6 +298,7 @@
                                                                                             <li>Comprehensive market analysis</li>
                                                                                             <li>Tailored educational resources</li>
                                                                                             <li>Exclusive VIP plans</li>
+                                                                                            <li>Lucrative investment opportunities</li>
                                                                                         </ul>
                                                                                         <p>Join our community and take your first step towards financial freedom.</p>
                                                                                         <hr>
@@ -364,7 +343,7 @@
                                                                                                                         <td class="pad" style="width: 100%;">
                                                                                                                             <div class="alignment" align="center" style="line-height: 10px;">
                                                                                                                                 <div style="max-width: 190px; background-color: #023b5c;">
-                                                                                                                                    <p style="line-height: 60px; font-family: 'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 26px; font-weight: 400; color: #54e231;">BASIC<br><span style="color: #fff;">55.99 USD</span></p>
+                                                                                                                                    <p style="line-height: 60px; font-family: 'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 26px; font-weight: 400; color: #54e231;">BASIC<br><span style="color: #fff;">49 USD</span></p>
                                                                                                                                 </div>
                                                                                                                             </div>
                                                                                                                         </td>
@@ -409,7 +388,7 @@
                                                         mso-line-height-alt: 19.2px;
                                                     "
                                                                                                                             >
-                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">4-7 signals per week</span>
+                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">0-4 signals per week</span>
                                                                                                                             </h1>
                                                                                                                             <h1
                                                                                                                                     style="
@@ -427,7 +406,7 @@
                                                         mso-line-height-alt: 19.2px;
                                                     "
                                                                                                                             >
-                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">Entry, 4 TP and SL</span>
+                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">Entry, 2 TP and SL</span>
                                                                                                                             </h1>
                                                                                                                             <h1
                                                                                                                                     style="
@@ -445,7 +424,7 @@
                                                         mso-line-height-alt: 19.2px;
                                                     "
                                                                                                                             >
-                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">Accuracy over 75%</span>
+                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">Accuracy over 70%</span>
                                                                                                                             </h1>
                                                                                                                             <h1
                                                                                                                                     style="
@@ -492,14 +471,12 @@
                                                                                                                     <tr>
                                                                                                                         <td class="pad">
                                                                                                                             <div class="alignment" align="center">
-                                                                                                                                <!--[if mso]>
                                                                                                                                 <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="www.example.com" style="height:44px;width:132px;v-text-anchor:middle;" arcsize="0%" stroke="false" fill="false">
                                                                                                                                     <w:anchorlock/>
                                                                                                                                     <v:textbox inset="0px,0px,0px,0px">
                                                                                                                                         <center dir="false" style="color:#023b5c;font-family:Tahoma, Verdana, sans-serif;font-size:16px">
-                                                                                                                                <![endif]-->
                                                                                                                                 <a
-                                                                                                                                        href="javascript:void('www.example.com')"
+                                                                                                                                        href="https://t.me/U_C_S_Admin"
                                                                                                                                         style="
                                                             background-color: #023b5c;
                                                             border-bottom: 0px solid #8a3b8f;
@@ -522,12 +499,12 @@
                                                         "
                                                                                                                                 >
                                                         <span style="word-break: break-word; padding-left: 30px; padding-right: 30px; font-size: 12px; display: inline-block;">
-                                                            <span style="word-break: break-word; line-height: 20px;">SELECT PLAN</span>
+                                                            <span style="word-break: break-word; line-height: 20px;">START NOW</span>
                                                         </span>
                                                                                                                                 </a>
                                                                                                                                 <br />
                                                                                                                                 <a
-                                                                                                                                        href="javascript:void('www.example.com')"
+                                                                                                                                        href="https://t.me/U_C_S_Admin"
                                                                                                                                         style="
                                                             background-color: transparent;
                                                             border-bottom: 2px solid #54e231;
@@ -553,7 +530,7 @@
                                                             <span style="word-break: break-word; line-height: 32px;">TRY FOR FREE</span>
                                                         </span>
                                                                                                                                 </a>
-                                                                                                                                <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+                                                                                                                                </v:textbox></v:roundrect>
                                                                                                                             </div>
                                                                                                                         </td>
                                                                                                                     </tr>
@@ -585,7 +562,7 @@
                                                                                                                         <td class="pad" style="width: 100%;">
                                                                                                                             <div class="alignment" align="center" style="line-height: 10px;">
                                                                                                                                 <div style="max-width: 190px; background-color: #023b5c;">
-                                                                                                                                    <p style="line-height: 60px; font-family: 'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 26px; font-weight: 400; color: #54e231;">PRO<br><span style="color: #fff;">55.99 USD</span></p>
+                                                                                                                                    <p style="line-height: 60px; font-family: 'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 26px; font-weight: 400; color: #54e231;">PRO<br><span style="color: #fff;">99 USD</span></p>
                                                                                                                                 </div>
                                                                                                                             </div>
                                                                                                                         </td>
@@ -630,7 +607,7 @@
                                                         mso-line-height-alt: 19.2px;
                                                     "
                                                                                                                             >
-                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">4-7 signals per week</span>
+                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">3-5 signals per week</span>
                                                                                                                             </h1>
                                                                                                                             <h1
                                                                                                                                     style="
@@ -666,7 +643,7 @@
                                                         mso-line-height-alt: 19.2px;
                                                     "
                                                                                                                             >
-                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">Accuracy over 82%</span>
+                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">Accuracy over 85%</span>
                                                                                                                             </h1>
                                                                                                                             <h1
                                                                                                                                     style="
@@ -713,14 +690,14 @@
                                                                                                                     <tr>
                                                                                                                         <td class="pad">
                                                                                                                             <div class="alignment" align="center">
-                                                                                                                                <!--[if mso]>
+
                                                                                                                                 <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="www.example.com" style="height:44px;width:132px;v-text-anchor:middle;" arcsize="0%" stroke="false" fill="false">
                                                                                                                                     <w:anchorlock/>
                                                                                                                                     <v:textbox inset="0px,0px,0px,0px">
                                                                                                                                         <center dir="false" style="color:#023b5c;font-family:Tahoma, Verdana, sans-serif;font-size:16px">
-                                                                                                                                <![endif]-->
+
                                                                                                                                 <a
-                                                                                                                                        href="javascript:void('www.example.com')"
+                                                                                                                                        href="https://t.me/U_C_S_Admin"
                                                                                                                                         style="
                                                             background-color: #023b5c;
                                                             border-bottom: 0px solid #8a3b8f;
@@ -743,7 +720,7 @@
                                                         "
                                                                                                                                 >
                                                         <span style="word-break: break-word; padding-left: 30px; padding-right: 30px; font-size: 12px; display: inline-block;">
-                                                            <span style="word-break: break-word; line-height: 20px;">SELECT PLAN</span>
+                                                            <span style="word-break: break-word; line-height: 20px;">START NOW</span>
                                                         </span>
                                                                                                                                 </a>
                                                                                                                                 <br />
@@ -774,7 +751,7 @@
                                                             <span style="word-break: break-word; line-height: 32px;">TRY FOR FREE</span>
                                                         </span>
                                                                                                                                 </a>
-                                                                                                                                <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+                                                                                                                                </center></v:textbox></v:roundrect>
                                                                                                                             </div>
                                                                                                                         </td>
                                                                                                                     </tr>
@@ -806,7 +783,7 @@
                                                                                                                         <td class="pad" style="width: 100%;">
                                                                                                                             <div class="alignment" align="center" style="line-height: 10px;">
                                                                                                                                 <div style="max-width: 190px; background-color: #023b5c;">
-                                                                                                                                    <p style="line-height: 60px; font-family: 'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 26px; font-weight: 400; color: #54e231;">PREMIUM<br><span style="color: #fff;">55.99 USD</span></p>
+                                                                                                                                    <p style="line-height: 60px; font-family: 'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-size: 26px; font-weight: 400; color: #54e231;">PREMIUM<br><span style="color: #fff;">199 USD</span></p>
                                                                                                                                 </div>
                                                                                                                             </div>
                                                                                                                         </td>
@@ -869,7 +846,7 @@
                                                         mso-line-height-alt: 19.2px;
                                                     "
                                                                                                                             >
-                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">Entry, 4 TP and SL</span>
+                                                                                                                                <span class="tinyMce-placeholder" style="word-break: break-word;">Entry, 6 TP and SL</span>
                                                                                                                             </h1>
                                                                                                                             <h1
                                                                                                                                     style="
@@ -934,14 +911,14 @@
                                                                                                                     <tr>
                                                                                                                         <td class="pad">
                                                                                                                             <div class="alignment" align="center">
-                                                                                                                                <!--[if mso]>
+
                                                                                                                                 <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="www.example.com" style="height:44px;width:132px;v-text-anchor:middle;" arcsize="0%" stroke="false" fill="false">
                                                                                                                                     <w:anchorlock/>
                                                                                                                                     <v:textbox inset="0px,0px,0px,0px">
                                                                                                                                         <center dir="false" style="color:#023b5c;font-family:Tahoma, Verdana, sans-serif;font-size:16px">
-                                                                                                                                <![endif]-->
+
                                                                                                                                 <a
-                                                                                                                                        href="javascript:void('www.example.com')"
+                                                                                                                                        href="https://t.me/U_C_S_Admin"
                                                                                                                                         style="
                                                             background-color: #023b5c;
                                                             border-bottom: 0px solid #8a3b8f;
@@ -964,7 +941,7 @@
                                                         "
                                                                                                                                 >
                                                         <span style="word-break: break-word; padding-left: 30px; padding-right: 30px; font-size: 12px; display: inline-block;">
-                                                            <span style="word-break: break-word; line-height: 20px;">SELECT PLAN</span>
+                                                            <span style="word-break: break-word; line-height: 20px;">START NOW</span>
                                                         </span>
                                                                                                                                 </a>
                                                                                                                                 <br />
@@ -995,7 +972,7 @@
                                                             <span style="word-break: break-word; line-height: 32px;">TRY FOR FREE</span>
                                                         </span>
                                                                                                                                 </a>
-                                                                                                                                <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+                                                                                                                                </center></v:textbox></v:roundrect>
                                                                                                                             </div>
                                                                                                                         </td>
                                                                                                                     </tr>
@@ -1013,7 +990,8 @@
                                                                                         <hr>
                                                                                         <p><strong>To subscribe, follow these steps:</strong></p>
                                                                                         <ol>
-                                                                                            <li>Reply with your chosen VIP plan.</li>
+                                                                                            <li>Click "START NOW" on your chosen plan.</li>
+                                                                                            <li>Provide necessary information</li>
                                                                                             <li>Receive a unique wallet address for payment.</li>
                                                                                             <li>Transfer the exact amount.</li>
                                                                                             <li>Receive community access details.</li>
@@ -1021,14 +999,15 @@
                                                                                         <hr>
                                                                                         <p><strong>For free trial, follow these steps:</strong></p>
                                                                                         <ol>
-                                                                                            <li>Reply with your request for free trial.</li>
+                                                                                            <li>Click "TRY FOR FREE" </li>
+                                                                                            <li>Provide necessary information</li>
                                                                                             <li>Receive the terms and conditions for joining on free trial.</li>
-                                                                                            <li>Confirm that you have understood the recieved terms and conditions</li>
+                                                                                            <li>Confirm that you have understood the received terms and conditions</li>
                                                                                             <li>Receive community access details.</li>
                                                                                         </ol>
                                                                                         <hr>
                                                                                         <p><strong>Important Information:</strong></p>
-                                                                                        <p>Ensure exact transfer amounts. RLindaElite Signals is not responsible for delays or losses due to incorrect transactions. click <a href="#">here</a> for assistance.</p>
+                                                                                        <p>Ensure exact transfer amounts. M-Saylor Elite Signals is not responsible for delays or losses due to incorrect transactions. click <a href="https://t.me/U_C_S_Admin">here</a> for assistance.</p>
 
                                                                                     </div>
                                                                                 </td>
@@ -1103,7 +1082,7 @@
                                                                     <tbody>
                                                                     <tr>
                                                                         <td style="padding: 0 7px 0 7px;">
-                                                                            <a href="https://www.facebook.com" target="_blank">
+                                                                            <a href="https://web.facebook.com/michaeljsaylor" target="_blank">
                                                                                 <img
                                                                                         src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-dark-gray/facebook@2x.png"
                                                                                         width="32"
@@ -1115,7 +1094,7 @@
                                                                             </a>
                                                                         </td>
                                                                         <td style="padding: 0 7px 0 7px;">
-                                                                            <a href="https://www.twitter.com" target="_blank">
+                                                                            <a href="https://x.com/saylor" target="_blank">
                                                                                 <img
                                                                                         src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-dark-gray/twitter@2x.png"
                                                                                         width="32"
@@ -1127,7 +1106,7 @@
                                                                             </a>
                                                                         </td>
                                                                         <td style="padding: 0 7px 0 7px;">
-                                                                            <a href="https://www.linkedin.com" target="_blank">
+                                                                            <a href="https://www.linkedin.com/in/mjsaylor" target="_blank">
                                                                                 <img
                                                                                         src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-dark-gray/linkedin@2x.png"
                                                                                         width="32"
@@ -1139,7 +1118,7 @@
                                                                             </a>
                                                                         </td>
                                                                         <td style="padding: 0 7px 0 7px;">
-                                                                            <a href="https://www.instagram.com" target="_blank">
+                                                                            <a href="https://www.instagram.com/michael_saylor" target="_blank">
                                                                                 <img
                                                                                         src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-dark-gray/instagram@2x.png"
                                                                                         width="32"
@@ -1181,7 +1160,7 @@
                                                                                         "
                                                             >
                                                                 <p style="margin: 0; word-break: break-word;">
-                                                                    You have recieved this email because you are following RLinda. To manage your subscription options or to unsubscribe from all email notifications follow the link below
+                                                                    You have received this email because you are following Michael Saylor. To manage your subscription options or to unsubscribe from all email notifications follow the link below
                                                                 </p>
                                                             </div>
                                                         </td>
@@ -1211,8 +1190,8 @@
                                                                                         "
                                                             >
                                                                 <p style="margin: 0; word-break: break-word;">
-                                                                    <a href=" http://www.example.com" target="_blank" style="text-decoration: underline; color: #0068a5;" rel="noopener">Contact Us</a> |
-                                                                    <a href=" http://www.example.com" target="_blank" style="text-decoration: underline; color: #0068a5;" rel="noopener">Unsubscribe</a>
+                                                                    <a href="https://t.me/U_C_S_Admin" target="_blank" style="text-decoration: underline; color: #0068a5;" rel="noopener">Contact Us</a> |
+                                                                    <a href=" http://www.msaylor.business/unsubscribe.html" target="_blank" style="text-decoration: underline; color: #0068a5;" rel="noopener">Unsubscribe</a>
                                                                 </p>
                                                             </div>
                                                         </td>

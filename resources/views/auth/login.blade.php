@@ -3,7 +3,7 @@
     $page = 'auth';
 @endphp
 
-@section('title', 'Bookyourvacay | Login')
+@section('title', 'Login')
 
 @section('content')
     <section class="content" id="contain">
@@ -13,9 +13,6 @@
                     <div class="card">
                         <div class="card-header">
                             <h3><i class="fa fa-user-circle"></i> Login</h3><br>
-                            <div class="d-flex justify-content-left links">
-                                Don't have an account?<a href="{{url('register')}}">Register</a>
-                            </div>
                         </div>
                         <div class="card-body">
                             <form method="POST" action="{{ route('login') }}">

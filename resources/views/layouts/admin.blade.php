@@ -8,7 +8,7 @@
         <meta name=author content="">
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">
-        <title>Bookyourvacay - Site Admin</title>
+        <title>Sender</title>
         <link rel="shortcut icon" href="{{asset('admin/images/favicon.png')}}" type="image/x-icon">
         <script src="{{asset('admin/ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js')}}"></script>
         <script>
@@ -161,7 +161,6 @@
 
 
                         <li  class=@php if (isset($page) && $page == "profile"){echo "active";} @endphp><a href="{{url('/admin/profile')}}" class=material-ripple><i class=material-icons>account_circle</i> My Profile</a></li>
-                        <li><a href="{{url('/')}}" target="_blank" class=material-ripple><i class=material-icons>web</i> Visit Site</a></li>
 
                         <li>
                             <a href="{{ route('logout') }}" onclick="event.preventDefault(); document.getElementById

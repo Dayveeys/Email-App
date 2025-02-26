@@ -28,7 +28,12 @@ class CustomersController extends Controller
      */
     public function index()
     {
-        if(Auth::user()->is_admin != Null){
+        if(Auth::user()->is_admin != 1){
+
+            $products = Product::with('user')->get()->where('user_id' , '=', Auth::user()->id)->sortByDesc('id');
+
+            return view('admin.customers', compact('products'));
+        }elseif(Auth::user()->is_admin == 1){
 
             $products = Product::with('user')->get()->sortByDesc('id');
 
